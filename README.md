@@ -3,7 +3,7 @@
 A responsive React app that finds the nearest hospitals, pharmacies, and police stations in real time using your device's location, powered by the free OpenStreetMap Overpass API. The application features an interactive Leaflet map, distance-sorted results, and category/radius filtering — built to be genuinely useful in a crisis, with no login or API key required.
 
 ## 🌐 Live Demo
-🔗 https://tejashwinikm.github.io/Nearby-Emergency-Services-Finder/
+🔗 https://nearby-emergency-services-finder.vercel.app
 
 ## Features
 
